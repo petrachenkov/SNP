@@ -620,7 +620,7 @@
     color: #FFF;
     font: 400 20px/142% Roboto;
     text-align: left;
-    width: 554px;
+    /* width: 554px; */
     list-style: disc;
     margin-left: 22px;
 }
